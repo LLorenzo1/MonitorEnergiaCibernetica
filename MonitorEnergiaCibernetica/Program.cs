@@ -17,7 +17,7 @@ namespace MonitorEnergiaCibernetica
 
             Application.Run(new Forms.LoginForm());
 
-            // ← normal
+            
         }
     }
 }
