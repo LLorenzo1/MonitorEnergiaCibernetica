@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorEnergiaCibernetica", "MonitorEnergiaCibernetica\MonitorEnergiaCibernetica.csproj", "{BB32F7CD-5860-456A-963F-C8297991AE35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB32F7CD-5860-456A-963F-C8297991AE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB32F7CD-5860-456A-963F-C8297991AE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB32F7CD-5860-456A-963F-C8297991AE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB32F7CD-5860-456A-963F-C8297991AE35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D65CFE5-836B-4CE9-AF85-A72BA735B272}
+	EndGlobalSection
+EndGlobal
