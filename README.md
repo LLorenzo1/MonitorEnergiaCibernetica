@@ -11,6 +11,12 @@ Este é um sistema desenvolvido em **C# com Windows Forms** que permite o regist
 
 ---
 
+## Vídeo de Apresentação do Sistema
+
+Link do vídeo: https://youtu.be/OvwNTUe92Hw?si=UvQkF_gJ6njxHTIs
+
+---
+
 ## Objetivo do projeto
 
 Proteger ambientes críticos de falhas de energia inesperadas, a partir de uma interface simples para:
@@ -63,7 +69,7 @@ MonitorEnergiaCibernetica/
 ├── Program.cs               # Ponto de entrada do sistema
 ├── README.md                # Documentação do projeto
 └── .gitignore               # Arquivos ignorados pelo Git
-
+```
 
 
 ---
@@ -102,11 +108,5 @@ MonitorEnergiaCibernetica/
 - Hospitais, Data Centers e ambientes que exigem continuidade elétrica
 - Simulação de impacto de ataques (ex: ransomware em sistemas SCADA)
 - Projetos de segurança cibernética
-
----
-
-## Vídeo de Apresentação do Sistema
-
-Link do vídeo: https://youtu.be/OvwNTUe92Hw?si=UvQkF_gJ6njxHTIs
 
 
